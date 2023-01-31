@@ -1,0 +1,8 @@
+#pic {
+    background-image: url("pic.jpg");
+    background-size: auto auto;
+    background-repeat: no-repeat;
+}
+#pic p {
+    text-align: center;
+}
